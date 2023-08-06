@@ -14,6 +14,7 @@ while true; do
 
     case $choice in
         1)
+            # Will be updated
             # Call add function
             ;; 
         2)
